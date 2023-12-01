@@ -1,6 +1,7 @@
 # una vez instalado Python
 # pip install fastapi
 # pip install uvicorn
+# uvicorn main:app --reload
 # pip install --upgrade pip
 # python -m pip freeze > requirements.txt
 # pip install --upgrade pip && pip install -r requirements.txt
